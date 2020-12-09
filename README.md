@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div>
+<a href="https://twitter.com/saidbouig"><img src="https://img.shields.io/twitter/follow/saidbouig?label=Twitter&style=social" alt="Twitter"> </a>
+<a href="https://www.linkedin.com/in/saidbouig"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"> </a>
+</div>
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=saidbouig)
 
 <!--
